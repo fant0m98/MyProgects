@@ -1,0 +1,35 @@
+#mfoto{
+    height: 700px;
+    width:400px;
+}
+
+.cont1{
+    height: 710px;
+    width: auto;
+    background: #ffffff;
+}
+
+.row{
+    margin: 20px;
+}
+
+.info{
+    font-size: 20px;
+    font-family: times new roman;
+}
+
+.item{
+    height: 345px;
+}
+
+#slider{
+    padding: 0px;
+}
+
+.slidetext{
+    font-size: 20px;
+}
+
+h3{
+    text-align: center;
+}
